@@ -12311,6 +12311,51 @@
             "ds-DS7-Crossback-Performance-Line-SUV-2022-9.jpg"
         ]
     },
+
+    "ferrari": {
+
+        "Roma-Coupe-2023": [
+            "ferrari-Roma-Coupe-2023-1.jpg",
+            "ferrari-Roma-Coupe-2023-2.jpg",
+            "ferrari-Roma-Coupe-2023-3.jpg",
+            "ferrari-Roma-Coupe-2023-4.jpg",
+            "ferrari-Roma-Coupe-2023-5.jpg",
+            "ferrari-Roma-Coupe-2023-6.jpg",
+            "ferrari-Roma-Coupe-2023-7.jpg",
+            "ferrari-Roma-Coupe-2023-8.jpg",
+            "ferrari-Roma-Coupe-2023-9.jpg",
+            "ferrari-Roma-Coupe-2023-10.jpg",
+            "ferrari-Roma-Coupe-2023-11.jpg"
+        ],
+        
+        "Roma-Coupe-2022": [
+            "ferrari-Roma-Coupe-2022-1.jpg",
+            "ferrari-Roma-Coupe-2022-2.jpg",
+            "ferrari-Roma-Coupe-2022-3.jpg",
+            "ferrari-Roma-Coupe-2022-4.jpg",
+            "ferrari-Roma-Coupe-2022-5.jpg",
+            "ferrari-Roma-Coupe-2022-6.jpg",
+            "ferrari-Roma-Coupe-2022-7.jpg",
+            "ferrari-Roma-Coupe-2022-8.jpg",
+            "ferrari-Roma-Coupe-2022-9.jpg",
+            "ferrari-Roma-Coupe-2022-10.jpg",
+            "ferrari-Roma-Coupe-2022-11.jpg"
+        ],
+
+        "SF90-Stradale": [
+            "SF90-Stradale-1.jpg",
+            "SF90-Stradale-2.jpg",
+            "SF90-Stradale-3.jpg"
+        ],
+        
+        "296-GTB": [
+            "296-GTB-1.jpg",
+            "296-GTB-2.jpg",
+            "296-GTB-3.jpg"
+        ]
+        
+    },
+    
     "fiat": {
         "500-Icon-Hatchback-2023": [
             "fiat-500-Icon-Hatchback-2023-1.jpg",
